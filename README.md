@@ -22,7 +22,7 @@ _Provides an executive overview of customer acquisition, purchasing behaviour an
 ### Analytical Focus
 - Customer Growth
 - Customer Value
-- Purchase Behaviour
+- Purchasing Behaviour
 
 ### Key Insights
 
@@ -39,7 +39,7 @@ _Segments customers according to Recency, Frequency and Monetary value to identi
 
 ### Analytical Focus
 - Customer Segmentation
-- Revenue Distribution
+- Customer Value Distribution
 - Retention Priorities
 
 ### Key Insights
