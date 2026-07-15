@@ -65,14 +65,24 @@ Measures customer retention across acquisition cohorts to understand how custome
 - Early customer churn remains the main retention challenge.
 - Only 18% of customers place a second order.
 - Retained customers become increasingly loyal over time.
+---
+# 📖 Executive Summary
 
-## Recommendations & Next Steps
+## Overall Findings
 
-- Investigate the drivers of early customer churn.
-- Develop targeted retention initiatives for high-potential customer segments.
-- Increase customer lifetime value through repeat purchasing strategies.
-- Monitor customer retention alongside acquisition performance.
+The customer analytics revealed three key themes across the customer lifecycle:
 
+- Strong customer acquisition continues to drive business growth.
+- Customer value remains concentrated among a relatively small group of loyal customers.
+- Most customer attrition occurs immediately after the first purchase, limiting long-term customer value.
+
+## Recommandation & Next Steps
+
+- **Improve early customer retention** to reduce first-time customer churn.
+- **Increase Customer Lifetime Value** through repeat purchasing strategies.
+- **Convert Growth Opportunities into Champions** through targeted engagement.
+- Balance customer acquisition with **long-term customer retention**.
+  
 ---
 
 # 📂 Repository Structure
@@ -80,7 +90,7 @@ Measures customer retention across acquisition cohorts to understand how custome
 ```text
 04_Customer_Analytics
 │
-├── dashboard/
+├── dashboards/
 │   ├── Customer_Analytics_Dashboard.xlsx     # Executive dashboards
 │   ├── customer_health_dashboard.png
 │   ├── rfm_dashboard.png
