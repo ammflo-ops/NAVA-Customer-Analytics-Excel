@@ -1,9 +1,9 @@
-# Customer Analytics
+# 04 Customer Analytics
 > <i>Customer Health, RFM Segmentation & Cohort Analysis</i>
 
 This repository contains the **Customer Analytics** analytical module of the [**NAVA Business Intelligence Portfolio**](https://github.com/ammflo-ops/NAVA-Business-Intelligence-Portfolio/blob/main/README.md).
 
-Built entirely in **Microsoft Excel**, it complements the NAVA Business Intelligence solution by analysing customer acquisition, purchasing behaviour, customer value and long-term retention.
+Built entirely in Microsoft Excel, it complements the NAVA Business Intelligence solution by analysing customer acquisition, customer value and long-term retention.
 
 ---
 
@@ -14,7 +14,7 @@ Built entirely in **Microsoft Excel**, it complements the NAVA Business Intellig
 Evaluate customer health throughout the customer lifecycle by measuring acquisition, purchasing behaviour, customer value and retention to identify opportunities for sustainable business growth.
 
 ## 📊 Customer Health Dashboard
-Provides an executive overview of customer acquisition, purchasing behaviour and customer value.
+_Provides an executive overview of customer acquisition, purchasing behaviour and customer value._
 <p align="center">
   <img src="dashboards/customer_health_dashboard.png" width="900">
 </p>
@@ -32,7 +32,7 @@ Provides an executive overview of customer acquisition, purchasing behaviour and
 
 ## 📊 RFM Dashboard
 
-Segments customers according to Recency, Frequency and Monetary value to identify high-value customers, customers at risk and growth opportunities.
+_Segments customers according to Recency, Frequency and Monetary value to identify high-value customers, customers at risk and growth opportunities._
 <p align="center">
   <img src="dashboards/rfm_dashboard.png" width="900">
 </p>
@@ -50,7 +50,7 @@ Segments customers according to Recency, Frequency and Monetary value to identif
   
 ## 📊 Cohort Analysis Dashboard
 
-Measures customer retention across acquisition cohorts to understand how customer loyalty evolves over time.
+_Measures customer retention across acquisition cohorts to understand how customer loyalty evolves over time._
 <p align="center">
   <img src="dashboards/cohort_dashboard.png" width="900">
 </p>
