@@ -73,7 +73,7 @@ _Measures customer retention across acquisition cohorts to understand how custom
 The analysis highlighted three key themes across the customer lifecycle:
 
 - Strong customer acquisition continues to drive business growth.
-- Customer value remains concentrated among a relatively small group of loyal customers.
+- Customer value is concentrated among a relatively small group of high-value customers.
 - Most customer attrition occurs immediately after the first purchase, limiting long-term customer value.
 
 ## Recommendations & Next Steps
@@ -91,7 +91,7 @@ The analysis highlighted three key themes across the customer lifecycle:
 04_Customer_Analytics
 │
 ├── dashboards/
-│   ├── customer_Analytics_Dashboard.xlsx     # Executive dashboards
+│   ├── customer_analytics_dashboard.xlsx     # Executive dashboards
 │   ├── customer_health_dashboard.png
 │   ├── rfm_dashboard.png
 │   └── cohort_dashboard.png
@@ -106,12 +106,12 @@ The analysis highlighted three key themes across the customer lifecycle:
 ---
 # 🔗 Quick Access
 
-| Resource | Description | Link
+| Resource | Description | Link |
 |-----------|-------------|-------------|
-| 📊 Interactive Dashboard | Executive customer analytics dashboards. | [View](dashboards/customer_analytics_dashboard.xlsx)
-| 📄 customer Health Workpaper | KPI calculations and business metrics. | [View](workpapers/customer_health_analysis.xlsx)
-| 📄 RFM Analysis Workpaper | RFM scoring methodology and customer segmentation. | [View](workpapers/rfm_analysis.xlsx)
-| 📄 Cohort Analysis Workpaper | Cohort methodology and retention calculations. | [View](workpapers/cohort_analysis.xlsx)
+| 📊 Interactive Dashboard | Executive customer analytics dashboards | [View](dashboards/customer_analytics_dashboard.xlsx)
+| 📄 Customer Health Analysis Workpaper | KPI calculations and business metrics | [View](workpapers/customer_health_analysis.xlsx)
+| 📄 RFM Analysis Workpaper | RFM scoring methodology and customer segmentation | [View](workpapers/rfm_analysis.xlsx)
+| 📄 Cohort Analysis Workpaper | Cohort methodology and retention calculations | [View](workpapers/cohort_analysis.xlsx)
 ---
 
 # 💡 About this Project
