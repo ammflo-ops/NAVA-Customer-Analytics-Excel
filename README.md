@@ -19,39 +19,52 @@ Provides an executive overview of customer acquisition, purchasing behaviour and
   <img src="dashboards/customer_health_dashboard.png" width="900">
 </p>
 
-### Customer Health Dashboard
-- Total Customers
-- Total Revenue
-- Average Order Value
-- Customer Lifetime Value
-- Purchase Frequency
-
 ### Analytical Focus
 - Customer Growth
+- Customer Value
 - Purchase Behaviour
 
+### Key Insights
 
+- Customer acquisition grew significantly.
+- Nearly half of customers purchase only once.
+- Customer lifetime value declined despite revenue growth.
 
-### RFM Dashboard
+## 📊 RFM Dashboard
 
 Segments customers according to Recency, Frequency and Monetary value to identify high-value customers, customers at risk and growth opportunities.
+<p align="center">
+  <img src="dashboards/rfm_dashboard.png" width="900">
+</p>
 
-### Cohort Analysis Dashboard
+### Analytical Focus
+- Customer Segmentation
+- Revenue Distribution
+- Retention Priorities
+
+### Key Insights
+
+- Champions generate a disproportionate share of revenue.
+- Lost Customers account for the largest customer segment.
+- Growth Opportunities present the greatest upside.
+  
+## 📊 Cohort Analysis Dashboard
 
 Measures customer retention across acquisition cohorts to understand how customer loyalty evolves over time.
+<p align="center">
+  <img src="dashboards/cohort_dashboard.png" width="900">
+</p>
 
----
+### Analytical Focus
+- Customer Retention
+- Cohort Performance
+- Customer Lifecycle
 
-# 📖 Customer Analytics
+### Key Insights
 
-## Summary of Insights
-
-- Customer acquisition increased significantly year-over-year.
-- Nearly half of customers placed only one order.
-- Customer lifetime value declined despite revenue growth.
-- Customer value is concentrated among Champions and Loyal Customers.
-- More than one-third of customers are classified as Lost Customers.
-- Customer attrition occurs primarily after the first purchase, while retained customers become increasingly loyal over time.
+- Early customer churn remains the main retention challenge.
+- Only 18% of customers place a second order.
+- Retained customers become increasingly loyal over time.
 
 ## Recommendations & Next Steps
 
