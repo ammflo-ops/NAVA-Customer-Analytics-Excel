@@ -3,13 +3,9 @@
 
 This project complements the **NAVA Business Intelligence Solution** by providing an end-to-end customer analytics workflow developed entirely in Microsoft Excel.
 
-The analysis focuses on customer acquisition, purchasing behaviour, customer value and retention through three complementary perspectives:
+The analysis focuses on customer acquisition, purchasing behaviour, customer value and retention.
 
-- Customer Health Analysis
-- RFM Segmentation
-- Cohort Analysis
-
-Rather than presenting dashboards only, this repository also documents the complete analytical methodology through dedicated workpapers, demonstrating how each business metric was calculated and validated.
+<i>Rather than presenting dashboards only, this repository also documents the complete analytical methodology through dedicated workpapers, demonstrating how each business metric was calculated and validated.</i>
 
 ---
 
