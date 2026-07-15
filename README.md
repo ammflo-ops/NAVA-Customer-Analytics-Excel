@@ -97,9 +97,9 @@ The customer analytics revealed three key themes across the customer lifecycle:
 │   └── cohort_dashboard.png
 │
 ├── workpapers/
-│   ├── KPI_Workpaper.xlsx                    # KPI calculation methodology
-│   ├── RFM_Workpaper.xlsx                    # RFM scoring methodology
-│   └── Cohort_Workpaper.xlsx                 # Cohort analysis methodology
+│   ├── customer_health_analysis.xlsx          # KPI calculation methodology
+│   ├── rfm_analysis.xlsx                      # RFM scoring methodology
+│   └── cohort_analysis.xlsx                   # Cohort analysis methodology
 │
 └── README.md
 ```
