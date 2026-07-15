@@ -1,10 +1,9 @@
-# Customer Analytics in Excel
-# 04 Customer Analytics
+# Customer Analytics
 > <i>Customer Health, RFM Segmentation & Cohort Analysis</i>
 
 This repository contains the **Customer Analytics** analytical module of the [**NAVA Business Intelligence Portfolio**](https://github.com/ammflo-ops/NAVA-Business-Intelligence-Portfolio/blob/main/README.md).
 
-Built entirely in **Microsoft Excel**, it complements the NAVA Business Intelligence solution by analysing customer acquisition, purchasing behaviour, customer value and long-term retention across France, Spain and Portugal.
+Built entirely in **Microsoft Excel**, it complements the NAVA Business Intelligence solution by analysing customer acquisition, purchasing behaviour, customer value and long-term retention.
 
 ---
 
