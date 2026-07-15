@@ -109,9 +109,9 @@ The analysis highlighted three key themes across the customer lifecycle:
 | Resource | Description | Link
 |-----------|-------------|-------------|
 | 📊 Interactive Dashboard | Executive customer analytics dashboards. | [View](dashboards/customer_analytics_dashboard.xlsx)
-| 📄 customer Health Workpaper | KPI calculations and business metrics. |
-| 📄 RFM Analysis Workpaper | RFM scoring methodology and customer segmentation. |
-| 📄 Cohort Analysis Workpaper | Cohort methodology and retention calculations. |
+| 📄 customer Health Workpaper | KPI calculations and business metrics. | [View](workpapers/customer_health_analysis.xlsx)
+| 📄 RFM Analysis Workpaper | RFM scoring methodology and customer segmentation. | [View](workpapers/rfm_analysis.xlsx)
+| 📄 Cohort Analysis Workpaper | Cohort methodology and retention calculations. | [View](workpapers/cohort_analysis.xlsx)
 ---
 
 # 💡 About this Project
