@@ -18,7 +18,7 @@ Evaluate customer health throughout the customer lifecycle by measuring acquisit
 The project provides three complementary executive dashboards designed to support customer-centric decision-making.
 
 <p align="center">
-  <img src="dashboard/customer_health_dashboard.png" width="900">
+  <img src="dashboards/customer_health_dashboard.png" width="900">
 </p>
 
 ### Customer Health Dashboard
