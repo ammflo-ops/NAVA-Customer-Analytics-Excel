@@ -13,17 +13,24 @@ Built entirely in **Microsoft Excel**, it complements the NAVA Business Intellig
 
 Evaluate customer health throughout the customer lifecycle by measuring acquisition, purchasing behaviour, customer value and retention to identify opportunities for sustainable business growth.
 
-## Dashboard Overview
-
-The project provides three complementary executive dashboards designed to support customer-centric decision-making.
-
+## 📊 Customer Health Dashboard
+Provides an executive overview of customer acquisition, purchasing behaviour and customer value.
 <p align="center">
   <img src="dashboards/customer_health_dashboard.png" width="900">
 </p>
 
 ### Customer Health Dashboard
+- Total Customers
+- Total Revenue
+- Average Order Value
+- Customer Lifetime Value
+- Purchase Frequency
 
-Provides an executive overview of customer acquisition, purchasing behaviour and customer value.
+### Analytical Focus
+- Customer Growth
+- Purchase Behaviour
+
+
 
 ### RFM Dashboard
 
