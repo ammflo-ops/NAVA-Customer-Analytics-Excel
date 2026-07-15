@@ -1,6 +1,5 @@
 # Customer Analytics in Excel
-
-## Project Overview
+> <i>Customer Health KPIs • RFM Analysis • Cohort Analysis</i>
 
 This project complements the **NAVA Business Intelligence Solution** by providing an end-to-end customer analytics workflow developed entirely in Microsoft Excel.
 
