@@ -1,168 +1,86 @@
 # Customer Analytics in Excel
-> <i>Customer Health KPIs • RFM Analysis • Cohort Analysis</i>
+# 04 Customer Analytics
+> <i>Customer Health, RFM Segmentation & Cohort Analysis</i>
 
-This project complements the **NAVA Business Intelligence Solution** by providing an end-to-end customer analytics workflow developed entirely in Microsoft Excel.
+This repository contains the **Customer Analytics** analytical module of the [**NAVA Business Intelligence Portfolio**](https://github.com/ammflo-ops/NAVA-Business-Intelligence-Portfolio/blob/main/README.md).
 
-The analysis focuses on customer acquisition, purchasing behaviour, customer value and retention.
-
-<i>Rather than presenting dashboards only, this repository also documents the complete analytical methodology through dedicated workpapers, demonstrating how each business metric was calculated and validated.</i>
-
----
-
-## Business Objectives
-
-This analysis aims to answer the following business questions:
-
-- How is the customer base evolving over time?
-- Which customers generate the highest business value?
-- Which customer segments require retention actions?
-- When does customer attrition occur?
-- How does customer retention evolve across acquisition cohorts?
+Built entirely in **Microsoft Excel**, it complements the NAVA Business Intelligence solution by analysing customer acquisition, purchasing behaviour, customer value and long-term retention across France, Spain and Portugal.
 
 ---
 
-## Repository Structure
+# 📖 Overview
 
-```
-Customer_Analytics_Excel
+## Business Objective
+
+Evaluate customer health throughout the customer lifecycle by measuring acquisition, purchasing behaviour, customer value and retention to identify opportunities for sustainable business growth.
+
+## Dashboard Overview
+
+The project provides three complementary executive dashboards designed to support customer-centric decision-making.
+
+<p align="center">
+  <img src="dashboard/customer_health_dashboard.png" width="900">
+</p>
+
+### Customer Health Dashboard
+
+Provides an executive overview of customer acquisition, purchasing behaviour and customer value.
+
+### RFM Dashboard
+
+Segments customers according to Recency, Frequency and Monetary value to identify high-value customers, customers at risk and growth opportunities.
+
+### Cohort Analysis Dashboard
+
+Measures customer retention across acquisition cohorts to understand how customer loyalty evolves over time.
+
+---
+
+# 📖 Customer Analytics
+
+## Summary of Insights
+
+- Customer acquisition increased significantly year-over-year.
+- Nearly half of customers placed only one order.
+- Customer lifetime value declined despite revenue growth.
+- Customer value is concentrated among Champions and Loyal Customers.
+- More than one-third of customers are classified as Lost Customers.
+- Customer attrition occurs primarily after the first purchase, while retained customers become increasingly loyal over time.
+
+## Recommendations & Next Steps
+
+- Investigate the drivers of early customer churn.
+- Develop targeted retention initiatives for high-potential customer segments.
+- Increase customer lifetime value through repeat purchasing strategies.
+- Monitor customer retention alongside acquisition performance.
+
+---
+
+# 📂 Repository Structure
+
+```text
+04_Customer_Analytics
 │
-├── Customer_Analytics_Dashboard.xlsx
+├── dashboard/
+│   ├── Customer_Analytics_Dashboard.xlsx     # Executive dashboards
+│   ├── customer_health_dashboard.png
+│   ├── rfm_dashboard.png
+│   └── cohort_dashboard.png
 │
-├── Customer_Analytics_KPI_Workpaper.xlsx
-│
-├── Customer_Analytics_RFM_Workpaper.xlsx
-│
-├── Customer_Analytics_Cohort_Workpaper.xlsx
-│
-├── dashboard_previews
-│      ├── customer_health_dashboard.png
-│      ├── rfm_dashboard.png
-│      └── cohort_dashboard.png
+├── workpapers/
+│   ├── KPI_Workpaper.xlsx                    # KPI calculation methodology
+│   ├── RFM_Workpaper.xlsx                    # RFM scoring methodology
+│   └── Cohort_Workpaper.xlsx                 # Cohort analysis methodology
 │
 └── README.md
 ```
 
 ---
 
-# Dashboard Workbook
+# 💡 About this Project
 
-The dashboard workbook contains the final executive dashboards prepared for business stakeholders.
+This repository contains the **Customer Analytics** analytical module of the [**NAVA Business Intelligence Portfolio**](https://github.com/ammflo-ops/NAVA-Business-Intelligence-Portfolio/blob/main/README.md).
 
-Included dashboards:
+Unlike the Tableau dashboards included in the core Business Intelligence solution, this project demonstrates how advanced customer analytics can be performed entirely in Microsoft Excel.
 
-- Customer Health Dashboard
-- RFM Dashboard
-- Cohort Analysis Dashboard
-
-The dashboards present business insights without exposing the underlying calculations.
-
----
-
-# Workpapers
-
-Each workpaper documents the analytical process used to produce the dashboards.
-
-## KPI Workpaper
-
-Documents:
-
-- Customer KPI calculations
-- Validation methodology
-- Business interpretations
-- Executive metrics
-
----
-
-## RFM Analysis Workpaper
-
-Documents:
-
-- Customer aggregation
-- RFM score calculation
-- Customer segmentation
-- Revenue distribution by segment
-- Business conclusions
-
----
-
-## Cohort Analysis Workpaper
-
-Documents:
-
-- Customer acquisition cohorts
-- Retention calculations
-- Cohort matrices
-- Heatmap construction
-- Retention insights
-
----
-
-# Excel Techniques
-
-The project demonstrates advanced Excel techniques including:
-
-- Pivot Tables
-- Dynamic formulas
-- FILTER
-- UNIQUE
-- COUNTIFS
-- SUMIFS
-- XLOOKUP
-- Conditional Formatting
-- Heatmaps
-- Interactive dashboards
-- Business KPI design
-
----
-
-# Key Business Insights
-
-### Customer Health
-
-- Customer acquisition increased significantly year-over-year.
-- Nearly half of customers purchase only once.
-- Customer Lifetime Value declined despite revenue growth.
-
-### RFM Analysis
-
-- Customer value is concentrated among Champions and Loyal Customers.
-- More than one-third of customers are classified as Lost Customers.
-- Growth Opportunities represent the largest segment for future value creation.
-
-### Cohort Analysis
-
-- Only 18% of newly acquired customers place another order in the following quarter.
-- Customer attrition is concentrated immediately after acquisition.
-- Customers retained beyond the first year demonstrate stronger long-term loyalty.
-
----
-
-# Project Methodology
-
-This repository follows the same analytical approach used throughout the NAVA Business Intelligence portfolio.
-
-```
-Raw Sales Data
-        │
-        ▼
-Customer Aggregation
-        │
-        ▼
-Business KPI Calculations
-        │
-        ├──────────► Customer Health Dashboard
-        │
-        ├──────────► RFM Analysis
-        │
-        └──────────► Cohort Analysis
-```
-
-Each analytical step is fully documented through dedicated workpapers to ensure transparency, reproducibility and auditability.
-
----
-
-# About this Project
-
-This repository was developed as part of the **NAVA Business Intelligence Portfolio** to demonstrate advanced customer analytics capabilities using Microsoft Excel.
-
-The project combines business analysis, customer segmentation and retention analytics while following a structured, workpaper-based approach inspired by audit and consulting methodologies.
+The repository combines executive dashboards with fully documented analytical workpapers, illustrating the complete process from KPI calculation to customer segmentation and cohort retention analysis using a structured, audit-inspired methodology.
