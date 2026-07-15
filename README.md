@@ -70,18 +70,18 @@ _Measures customer retention across acquisition cohorts to understand how custom
 
 ## Overall Findings
 
-The customer analytics revealed three key themes across the customer lifecycle:
+The analysis highlighted three key themes across the customer lifecycle:
 
 - Strong customer acquisition continues to drive business growth.
 - Customer value remains concentrated among a relatively small group of loyal customers.
 - Most customer attrition occurs immediately after the first purchase, limiting long-term customer value.
 
-## Recommandation & Next Steps
+## Recommendations & Next Steps
 
 - **Improve early customer retention** to reduce first-time customer churn.
 - **Increase Customer Lifetime Value** through repeat purchasing strategies.
 - **Convert Growth Opportunities into Champions** through targeted engagement.
-- Balance customer acquisition with **long-term customer retention**.
+- Balance customer acquisition **with long-term customer value**.
   
 ---
 
@@ -97,9 +97,9 @@ The customer analytics revealed three key themes across the customer lifecycle:
 │   └── cohort_dashboard.png
 │
 ├── workpapers/
-│   ├── customer_health_analysis.xlsx          # KPI calculation methodology
-│   ├── rfm_analysis.xlsx                      # RFM scoring methodology
-│   └── cohort_analysis.xlsx                   # Cohort analysis methodology
+│   ├── customer_health_analysis.xlsx          # Customer Health workpaper
+│   ├── rfm_analysis.xlsx                      # RFM analysis workpaper
+│   └── cohort_analysis.xlsx                   # Cohort analysis workpaper
 │
 └── README.md
 ```
@@ -112,4 +112,4 @@ This repository contains the **Customer Analytics** analytical module of the [**
 
 Unlike the Tableau dashboards included in the core Business Intelligence solution, this project demonstrates how advanced customer analytics can be performed entirely in Microsoft Excel.
 
-The repository combines executive dashboards with fully documented analytical workpapers, illustrating the complete process from KPI calculation to customer segmentation and cohort retention analysis using a structured, audit-inspired methodology.
+The repository combines executive dashboards with fully documented analytical workpapers, illustrating the complete process from customer KPI calculation to RFM segmentation and cohort retention analysis using a structured, audit-inspired methodology.
